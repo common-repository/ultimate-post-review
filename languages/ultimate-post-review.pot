@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Post Review\n"
+"POT-Creation-Date: 2019-05-28 13:52+0200\n"
+"PO-Revision-Date: 2019-04-25 16:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: MagniumThemes\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-post-review-admin.php:133
+msgid "Post Review"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:160
+msgid "Enable review block"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:161
+msgid "Enable to show review block for post and set review settings below."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:167
+msgid "Review block title"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:168
+msgid "Displayed in review block header."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:175
+msgid "Review block summary"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:176
+msgid "Short summary for review."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:183
+#: public/class-ultimate-post-review-public.php:212
+msgid "Positives"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:184
+msgid "Positives list (1 per line), up to 5 in free version"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:191
+#: public/class-ultimate-post-review-public.php:231
+msgid "Negatives"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:192
+msgid "Negatives list (1 per line), up to 5 in free version"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:203
+msgid "Review criteria {#} (Up to 3 criterias in free version)"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:204
+msgid "Add review criteria"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:205
+msgid "Remove review criteria"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:214
+msgid "Criteria title"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:221
+msgid "Criteria rating (%)"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:222
+msgid "Your rating for this criteria, for ex: 95 (means 95%)"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:236
+msgid "Ultimate Post Review"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:283
+msgid "Settings saved."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:286
+msgid "Settings are not saved."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:295
+msgid "Ultimate Post Review - Free version"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:306
+msgid "Getting started"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:311
+msgid ""
+"<strong>Edit/Add your Posts</strong> and you will see new <strong>Post "
+"Review</strong> settings metabox for every post at the bottom after post "
+"content editor."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:315
+msgid "Display settings"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:318
+msgid "Single post page"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:327
+msgid "Add post review block after post content automatically"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:328
+msgid ""
+"If automatical position does not work well in your theme or you want to "
+"display block in custom position you can disable this option and place post "
+"review block manually:<ul><li>Add <strong>[post_review_block]</strong> "
+"shortcode in your post content.</li><li><strong>OR</strong> add code "
+"<strong>&lt;?php ultimate_post_review_display_post_review_block(); ?&gt;</"
+"strong> to your theme <strong>single.php</strong> template file (or other "
+"template file used in your theme for single post display).</li></ul>"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:332
+msgid "Blog listing pages"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:341
+msgid "Add post review rating badge inside blog post thumbnail automatically"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:342
+msgid ""
+"<strong><a href='https://codecanyon.net/item/ultimate-post-review-responsive-"
+"wordpress-posts-reviews-and-rating-plugin/23841089' target='_blank'>Purchase "
+"PRO version</a> to unlock this feature.</strong>"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:346
+msgid "Styles settings"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:349
+msgid "Post review elements style"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:369
+msgid "Additional styles"
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:371
+msgid ""
+"You can restyle any element in our plugin with Custom CSS code added in "
+"<strong>Appearance > Customize > Additional CSS</strong>.<br><br>Please <a "
+"href='https://help.magniumthemes.com/hc/en-us/articles/115001505454-How-to-"
+"change-theme-elements-styles-move-or-hide-elements' target='_blank'>read "
+"this help guide</a> about using Custom CSS."
+msgstr ""
+
+#: admin/class-ultimate-post-review-admin.php:377
+msgid "Save Changes"
+msgstr ""

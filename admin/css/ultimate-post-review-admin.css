@@ -1,0 +1,17 @@
+/**
+ * Admin styles
+ */
+#upr_settings_form .option-info {
+    padding: 15px;
+    background-color: #ffffff;
+    max-width: 600px;
+}
+#upr_settings_form .option-info ul {
+    display: block;
+    list-style: square;
+    padding-left: 15px;
+}
+#upr_settings_form .form-table label {
+    display: block;
+    margin-bottom: 15px;
+}
